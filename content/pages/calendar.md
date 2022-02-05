@@ -4,17 +4,279 @@ title: Calendar
 uid: 74499ecb-326f-11b6-5f9f-0ec53d5c4d03
 ---
 
-| LEC # | Topics | Readings Due | Assignments Due |
-| --- | --- | --- | --- |
-| 1 | What is Policy, why is it important, and why are we in space? |  {{< br >}}{{< br >}}  |  |
-| 2 | Current stakeholders & their missions and roles |  {{< br >}}{{< br >}} Stone. Chap. 1, 2 Intro. {{< br >}}{{< br >}} Web sites for space policy players. {{< br >}}{{< br >}} Documents in [Reading 01]({{< baseurl >}}/pages/readings). {{< br >}}{{< br >}} Logsdon. "Rationale for space programs." {{< br >}}{{< br >}}  | Memo: Stone Reading |
-| 3 | Space history and policy in the fifties |  {{< br >}}{{< br >}} McDougall. p. 1-230 {{< br >}}{{< br >}} Selected reading on history of the NRO {{< br >}}{{< br >}}  | Memo: Satellite Flyover |
-| 4 | Space history and policy in the sixties |  {{< br >}}{{< br >}} McDougall. p. 231-407 {{< br >}}{{< br >}}  | Memo: Moon Mission |
-| 5 | Space history and policy in the seventies |  {{< br >}}{{< br >}} Launius, and McCurdy. Chap. 4 {{< br >}}{{< br >}} Wheelon. Chap. 1, 2 {{< br >}}{{< br >}} Spires. Chap. 4, 5 {{< br >}}{{< br >}}  | Memo: Apollo |
-| 6 | Space history and policy in the eighties |  {{< br >}}{{< br >}} Launius, and McCurdy, Chap. 2 {{< br >}}{{< br >}} Spires. Chap. 6 {{< br >}}{{< br >}} Wheelon. Chap. 3, 4 {{< br >}}{{< br >}} Documents in [Reading 02]({{< baseurl >}}/pages/readings) {{< br >}}{{< br >}}  | Memo: Challenger |
-| 7 | Space history and policy in the nineties |  {{< br >}}{{< br >}} Launius, and McCurdy. Chap. 5, 6, Epilogue {{< br >}}{{< br >}} Spires. Chap. 7, 8 "State of the Space Industry" Report {{< br >}}{{< br >}} Documents in [Reading 03]({{< baseurl >}}/pages/readings) {{< br >}}{{< br >}}  | Memo: ISS Hab Module |
-| 8 | International and US Space Policy and Law |  {{< br >}}{{< br >}} Reynolds, and Merges. Chap. 2-4 {{< br >}}{{< br >}} Selected summaries of space law {{< br >}}{{< br >}}  | Memo: Moon Treaty |
-| 9 | Special Topic: Globalstar  {{< br >}}Special Topic: GPS & Galileo |  {{< br >}}{{< br >}} TBA {{< br >}}{{< br >}}  |  |
-| 10 | Special Topic: Space Launch |  {{< br >}}{{< br >}} TBA {{< br >}}{{< br >}}  |  |
-| 11 | Student Presentation on Term Project |  {{< br >}}{{< br >}} Provided by students {{< br >}}{{< br >}}  | Group Term Briefing |
-| 12 | Scenarios for the Future: A Panel Discussion |  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Group Term Project reports {{< br >}}{{< br >}} Memo: Next US Space Endeavor {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Readings Due
+{{< thclose >}}
+{{< thopen >}}
+Assignments Due
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+What is Policy, why is it important, and why are we in space?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Current stakeholders & their missions and roles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stone. Chap. 1, 2 Intro.
+
+Web sites for space policy players.
+
+Documents in [Reading 01]({{< baseurl >}}/pages/readings).
+
+Logsdon. "Rationale for space programs."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: Stone Reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Space history and policy in the fifties
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+McDougall. p. 1-230
+
+Selected reading on history of the NRO
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: Satellite Flyover
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Space history and policy in the sixties
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+McDougall. p. 231-407
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: Moon Mission
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Space history and policy in the seventies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Launius, and McCurdy. Chap. 4
+
+Wheelon. Chap. 1, 2
+
+Spires. Chap. 4, 5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: Apollo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Space history and policy in the eighties
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Launius, and McCurdy, Chap. 2
+
+Spires. Chap. 6
+
+Wheelon. Chap. 3, 4
+
+Documents in [Reading 02]({{< baseurl >}}/pages/readings)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: Challenger
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Space history and policy in the nineties
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Launius, and McCurdy. Chap. 5, 6, Epilogue
+
+Spires. Chap. 7, 8 "State of the Space Industry" Report
+
+Documents in [Reading 03]({{< baseurl >}}/pages/readings)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: ISS Hab Module
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+International and US Space Policy and Law
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reynolds, and Merges. Chap. 2-4
+
+Selected summaries of space law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Memo: Moon Treaty
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topic: Globalstar  
+Special Topic: GPS & Galileo
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+TBA
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topic: Space Launch
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+TBA
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentation on Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Provided by students
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Group Term Briefing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Scenarios for the Future: A Panel Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group Term Project reports
+
+Memo: Next US Space Endeavor
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
