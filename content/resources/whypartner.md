@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b713c905-1628-663a-bc73-6e7d2e52b013
 resourcetype: Image
 title: whypartner.gif
 uid: a609314d-8411-68ba-67fb-a5223888f30b

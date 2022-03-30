@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b713c905-1628-663a-bc73-6e7d2e52b013
 resourcetype: Image
 title: players.gif
 uid: e40538f6-ac9b-b912-6926-dedca6df6145
